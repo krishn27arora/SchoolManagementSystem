@@ -1,8 +1,10 @@
 # SchoolManagementSystem
-Project Description
+Project Description :
+
 The School Management System is a comprehensive application designed to manage various aspects of school administration efficiently. This system provides functionalities for managing students, teachers, classes, subjects, timetables, examinations, and more. It aims to streamline administrative tasks, enhance communication, and improve the overall management of the school.
 
-Features
+Features : 
+
 Student Management: Add, update, and delete student information. Maintain records of student attendance and academic performance.
 Teacher Management: Manage teacher profiles, including personal details, subjects taught, and timetables.
 Class Management: Organize and manage classes, sections, and subjects. Assign teachers to specific classes and subjects.
